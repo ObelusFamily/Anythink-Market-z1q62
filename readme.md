@@ -12,6 +12,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
 
-
 # To make a local environment you first need to make sure you install docker and then go to the repo you have in your local pc and 
-# Use the command docker-compose up - Its important to know this will take a bit and just wait until everything is set up!
+# Use the command docker-compose up - Its important to know this will take a bit and just wait until everything is set up
